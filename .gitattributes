@@ -1,0 +1,8 @@
+public/** linguist-vendored
+*.md linguist-documentation
+
+*.js linguist-detectable 
+*.yaml linguist-detectable=false
+
+*.htm linguist-vendored
+*.jpeg binary
