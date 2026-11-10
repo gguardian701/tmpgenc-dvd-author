@@ -1,0 +1,9 @@
+.pnpm-store/
+yarn-error.log*
+*.log
+build/
+.env.local
+.next/
+.DS_Store
+dist/
+_site/
